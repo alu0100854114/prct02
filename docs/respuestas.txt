@@ -1,0 +1,8 @@
+8. ¿Qué es Github?
+Es una herramienta para gestionar repositorios remotos.
+
+10. ¿Qué es la clave pública?
+Es la parte de la clave de acceso, que el coordinador comparte con los otros usuarios, para tener acceso al repositorio remoto.
+
+14. ¿Qué es un repositorio remoto?
+Es un directorio alojado en un lugar remoto donde se pueden almacenar todos los cambios realizados en un proyecto.
